@@ -1,0 +1,13 @@
+﻿  AI_Project_LocalSearch.cpp
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(478,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(499,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(497,10): warning C4101: 'action': unreferenced local variable
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(520,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(524,8): warning C4101: 'goal': unreferenced local variable
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(550,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(563,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(575,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(677,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(724,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\AI_Project_LocalSearch.cpp(429): warning C4715: 'move': not all control paths return a value
+  AI_Project_LocalSearch.vcxproj -> E:\Đại học 2020\Trí tuệ nhân tạo\AI_Project_LocalSearch\Debug\AI_Project_LocalSearch.exe
